@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "module": "NodeNext",
+    "esModuleInterop": true,
+    "sourceMap": true,
+    "target": "esnext",
+    "lib": [
+      "esnext",
+      "dom"
+    ],
+    "rootDir": "src",
+    "moduleResolution": "nodenext"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "ts-sandbox",
+  "version": "0.0.1",
+  "description": "TypeScript Sandbox Project",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "nuky",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "typescript": "^5.8.2",
+    "vite": "^6.2.3"
+  },
+  "devDependencies": {
+    "eslint": "^9.23.0",
+    "vitest": "^3.0.9"
+  }
+}
