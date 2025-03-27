@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "TypeScript Sandbox Project",
   "scripts": {
+    "start": "vite",
     "test": "vitest"
   },
   "author": "nuky",
