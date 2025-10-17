@@ -6,6 +6,7 @@ const rawTemplate = `
     <title>{{ title }}</title>
   </head>
   <body>
+    <h3>{{ title }}</h3>
     <p>{{ introductionText }}</p>
   </body>
 </html>`;
