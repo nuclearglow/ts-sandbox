@@ -1,6 +1,14 @@
 import { render } from './template-engine';
 
-const rawTemplate = `<html>\n<head>\n<title>{{ title }}</title>\n</head>\n<body>\n<p>{{ introductionText }}\n</p>\n`;
+const rawTemplate = `
+<html>
+  <head>
+    <title>{{ title }}</title>
+  </head>
+  <body>
+    <p>{{ introductionText }}</p>
+  </body>
+</html>`;
 
 const templateContext = {
   title: 'Welcome',
